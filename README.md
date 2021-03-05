@@ -14,7 +14,6 @@
 
 
 - 🔭 I’m currently working on ... Technical Fingers
-- 🌱 I’m currently learning ... Andoid, Flutter , Game Development
 - 📫 How to reach me: ... [Youtube Channel](https://www.youtube.com/c/CyberSoftov)
 - 😄 Pronouns: ...  He/Him
 - ⚡ Fun fact: ... I'm Just Started :+1:
