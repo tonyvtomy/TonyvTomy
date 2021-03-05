@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Youtube Channel](https://www.youtube.com/c/CyberSoftov)
 - 😄 Pronouns: ...  He/Him
 - ⚡ Fun fact: ... I'm Just Started :+1:
-- 
