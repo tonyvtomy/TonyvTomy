@@ -6,21 +6,21 @@
 </p>
 
 
-- I'm **Developer** | **Programmer** | **Learner**
-- Currently Working on **Android**, **Game Development**
-- Currently Learning **Android**, **Flutter**, **Web Development** And **Game Development**
+<p align="center">
+- I'm  <b>Developer</b> | <b>Programmer</b> | <b>Learner</b><br/>
+- Currently Working on <b>Android</b>, <b>Game Development</b><br/>
+- Currently Learning <b>Android</b>, <b>Flutter</b>, <b>Web Development</b> and <b>Game Development</b><br/>
+</p>
 
 
-
-- 🔭 I’m currently working at ... Technical Fingers
-- 📫 How to reach me: tonytomy321@gmail.com.
-- 😄 Pronouns: ...  He/Him
-- ⚡ Fun fact: Addicted to coding.
-
+🔭 I’m currently working at ... Technical Fingers<br/>
+📫 How to reach me: tonytomy321@gmail.com.<br/>
+😄 Pronouns: ...  He/Him<br/>
+⚡ Fun fact: Addicted to coding.<br/>
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-Tony-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-tomy) [![Mail Badge](https://img.shields.io/badge/-Tech_Wonders-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/techwonders) [![Mail Badge](https://img.shields.io/badge/-@coder_tony_tomy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/coder_tony_tomy/) [![Mail Badge](https://img.shields.io/badge/-TonyTomy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tonytomy321@gmail.com)
-
+<br/>
 
 
 
