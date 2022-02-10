@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img width="20%" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg"/>
+<img width="20%" src="https://tonyvtomy.github.io/Portfolio/img/profile-pic.png"/>
 </p>
 
 
