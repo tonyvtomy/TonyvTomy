@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+<img width="20%" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg"/>
 </p>
 
 
