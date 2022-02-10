@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img width="20%" src="https://tonyvtomy.github.io/Portfolio/img/profile-pic.png"/>
+<img width="20%" src="https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png"/>
 </p>
 
 
