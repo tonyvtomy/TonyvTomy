@@ -19,7 +19,8 @@
 
 
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-Tony-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-tomy) [![Mail Badge](https://img.shields.io/badge/-Tech_Wonders-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/techwonders) [![Mail Badge](https://img.shields.io/badge/-@coder_tony_tomy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/coder_tony_tomy/) [![Mail Badge](https://img.shields.io/badge/-TonyTomy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tonytomy321@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Tony-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-tomy) [![Mail Badge](https://img.shields.io/badge/-Tech_Wonders-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/techwonders) [![Mail Badge](https://img.shields.io/badge/-@coder_tony_tomy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/coder_tony_tomy/) [![Mail Badge](https://img.shields.io/badge/-TonyTomy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tonytomy321@gmail.com)
+
 
 
 
