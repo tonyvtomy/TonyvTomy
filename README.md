@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on ... Technical Fingers
+- 🔭 I’m currently working at ... Technical Fingers
 - 📫 How to reach me: tonytomy321@gmail.com.
 - 😄 Pronouns: ...  He/Him
 - ⚡ Fun fact: Addicted to coding.
