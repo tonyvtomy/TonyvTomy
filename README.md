@@ -13,7 +13,7 @@
 </p>
 
 
-🔭 I’m currently working at ... Technical Fingers<br/>
+🔭 I’m currently working at ... Trenser Technology Solutions (P) Ltd.<br/>
 📫 How to reach me: tonytomy321@gmail.com.<br/>
 😄 Pronouns: ...  He/Him<br/>
 ⚡ Fun fact: Addicted to coding.<br/>
